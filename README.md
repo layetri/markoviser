@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="./assets/icon.png" width="200px" height="200px" alt="Markoviser"/>
+    <img src="./assets/icon.png" width="200px" height="200px" style="margin: auto" alt="Markoviser"/>
 </div>
 
 # Markoviser
